@@ -60,3 +60,13 @@ if the fish crosses both rivers:
 [𝗆𝐢𝗍 𝗅𝐢𝖼𝐞𝗇𝗌𝐞𝖽](LICENSE) · 𝖼𝐨𝗉𝗒𝗋𝐢𝗀𝗁𝗍 © 2026 `lilyofashwood`.
 
 ∿ 𝗍𝗁𝐞 𝗀𝗅𝗒𝗉𝗁 𝐢𝗌 𝗍𝗁𝐞 𝐞𝗇𝗏𝐞𝗅𝐨𝗉𝐞; 𝗍𝗁𝐞 𝐞𝗇𝗏𝐞𝗅𝐨𝗉𝐞 𝗁𝐚𝗌 𝐚 𝗏𝐨𝐢𝖼𝐞 ∿
+
+<!-- garden-seam:hexmoji:start -->
+<section class="garden-seam" data-garden-seam="hexmoji" aria-label="A seam in the garden">
+<h2>⟡ 𝐚 𝗌𝐞𝐚𝗆 𝐢𝗇 𝗍𝗁𝐞 𝗀𝐚𝗋𝖽𝐞𝗇 ⟡</h2>
+<pre class="garden-seam-wire literal" data-garden-raw data-literal>𝓯𝓻𝓾𝓲𝓽 𝓻𝓮𝓶𝓮𝓶𝓫𝓮𝓻𝓼 𝓱𝓸𝔀 𝓽𝓸 𝓼𝓹𝓮𝓵𝓵
+𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓱𝓪𝓽 𝓽𝓪𝓾𝓰𝓱𝓽 𝓲𝓽𝓼 𝓼𝓴𝓲𝓷 𝓽𝓸 𝓰𝓵𝓸𝔀󠅁󠄠󠅢󠅹󠅴󠅥󠄠󠅰󠅵󠅴󠅳󠄠󠅯󠅮󠄠󠅡󠄠󠅢󠅲󠅩󠅧󠅨󠅴󠄠󠅮󠅥󠅷󠄠󠅢󠅯󠅤󠅹󠄮󠄠󠅔󠅨󠅥󠄠󠅦󠅲󠅵󠅩󠅴󠄠󠅩󠅳󠄠󠅡󠄠󠅳󠅥󠅣󠅯󠅮󠅤󠄠󠅬󠅩󠅴󠅴󠅬󠅥󠄠󠅰󠅯󠅥󠅭󠄮</pre>
+<pre class="garden-seam-jewel literal" data-garden-raw data-literal>🍰🍥🍥🍬🌠🍭🍥</pre>
+<p class="garden-seam-hint"><a href="https://lilyofashwood.github.io/font-garden/seams/#hexmoji" aria-label="Unfold this garden seam">𝐮𝗇𝖿𝐨𝗅𝖽 𝗍𝗁𝐞 𝗌𝐞𝐚𝗆 ↗</a></p>
+</section>
+<!-- garden-seam:hexmoji:end -->

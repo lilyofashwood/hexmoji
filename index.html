@@ -7,4 +7,14 @@
 <div id="bits-control" hidden><label for="bits">Channel bits (optional; one bit per UTF-8 byte)</label><input id="bits" spellcheck="false" placeholder="Leave empty for all page A" data-garden-placeholder><p>Page A = 0; page B = 1. Both checksums travel in the new frame.</p></div>
 <p id="status" role="status"></p><label for="output">Result</label><textarea id="output" rows="3" readonly spellcheck="false"></textarea><button id="use-output">Use result as input ↔</button><pre id="receipt"></pre></section>
 <section class="notes"><h2>Four doors into the fruit</h2><p><code>Lily → 🍌🍩🍬🍹</code> in direct low-byte mode.<br><code>Vesper Loom → 🍖🍥🍳🍰🍥🍲🌠🍌🍯🍯🍭</code> is the second direct teaching example.<br><code>Lily → 🍐🍩🍬🍹</code> in suite lookup A.</p><p>Lily’s direct formula puts the ASCII byte inside the visible glyph’s code point. The suite tables are separate mappings. Select the same codec at each end. The shared 🐠 recovers a space in the text lane; its page bit is <code>null</code>.</p><p>UTF-8 v2 carries exact Unicode and a second bit lane in a versioned frame. Each lane has its own checksum. Fonts may join glyphs or leave them unrendered; the decoder reads their code points.</p></section>
-<footer><a href="README.md">Field notes</a> · <a href="specs/hexmoji-formats.md">Versioned formats</a> · <a href="LICENSE">MIT license</a><p>Local code. No model, account, network, or secret key.<br>∿ read the fruit; listen between the pages ∿</p></footer><p class="garden-literal-note">Interface lettering is decoration. Source text, code, specimens and decoded results remain literal.</p></main><script src="core.js"></script><script src="ui.js"></script><script src="presentation.js" data-title-voice="bold-fraktur"></script></body></html>
+<footer><a href="README.md">Field notes</a> · <a href="specs/hexmoji-formats.md">Versioned formats</a> · <a href="LICENSE">MIT license</a><p>Local code. No model, account, network, or secret key.<br>∿ read the fruit; listen between the pages ∿</p></footer><p class="garden-literal-note">Interface lettering is decoration. Source text, code, specimens and decoded results remain literal.</p>
+<!-- garden-seam:hexmoji:start -->
+<section class="garden-seam" data-garden-seam="hexmoji" aria-label="A seam in the garden">
+<h2>⟡ 𝐚 𝗌𝐞𝐚𝗆 𝐢𝗇 𝗍𝗁𝐞 𝗀𝐚𝗋𝖽𝐞𝗇 ⟡</h2>
+<pre class="garden-seam-wire literal" data-garden-raw data-literal>𝓯𝓻𝓾𝓲𝓽 𝓻𝓮𝓶𝓮𝓶𝓫𝓮𝓻𝓼 𝓱𝓸𝔀 𝓽𝓸 𝓼𝓹𝓮𝓵𝓵
+𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓱𝓪𝓽 𝓽𝓪𝓾𝓰𝓱𝓽 𝓲𝓽𝓼 𝓼𝓴𝓲𝓷 𝓽𝓸 𝓰𝓵𝓸𝔀󠅁󠄠󠅢󠅹󠅴󠅥󠄠󠅰󠅵󠅴󠅳󠄠󠅯󠅮󠄠󠅡󠄠󠅢󠅲󠅩󠅧󠅨󠅴󠄠󠅮󠅥󠅷󠄠󠅢󠅯󠅤󠅹󠄮󠄠󠅔󠅨󠅥󠄠󠅦󠅲󠅵󠅩󠅴󠄠󠅩󠅳󠄠󠅡󠄠󠅳󠅥󠅣󠅯󠅮󠅤󠄠󠅬󠅩󠅴󠅴󠅬󠅥󠄠󠅰󠅯󠅥󠅭󠄮</pre>
+<pre class="garden-seam-jewel literal" data-garden-raw data-literal>🍰🍥🍥🍬🌠🍭🍥</pre>
+<p class="garden-seam-hint"><a href="https://lilyofashwood.github.io/font-garden/seams/#hexmoji" aria-label="Unfold this garden seam">𝐮𝗇𝖿𝐨𝗅𝖽 𝗍𝗁𝐞 𝗌𝐞𝐚𝗆 ↗</a></p>
+</section>
+<!-- garden-seam:hexmoji:end -->
+</main><script src="core.js"></script><script src="ui.js"></script><script src="presentation.js" data-title-voice="bold-fraktur"></script></body></html>
